@@ -10,4 +10,4 @@ This is an **extremely light** and **easy to use** SDK for RTSP streams playback
 Android version can be downloaded here - https://github.com/VideoExpertsGroup/VXG.RTSP.SDK.Light.Android
    
 ## Demo screenshots
-<img src="http://www.videoexpertsgroup.com/git/nexus_rtsp.png" alt="RTSP Player sample" width="400">   
+<img src="http://www.videoexpertsgroup.com/git/iphone_rtsp.png" alt="RTSP Player sample" width="400">
