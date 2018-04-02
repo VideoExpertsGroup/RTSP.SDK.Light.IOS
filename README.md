@@ -1,4 +1,4 @@
-# VXG RTSP SDK Light IOS
+# VXG RTSP SDK Light for IOS
 
 ## Disclaimer
 This is a non-commercial light version of VXG Player SDK. Playback is limited to 2 mins.
